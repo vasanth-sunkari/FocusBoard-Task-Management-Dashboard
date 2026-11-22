@@ -1,3 +1,4 @@
+
 # FocusBoard
 
 FocusBoard is a responsive task management dashboard built with React and Vite. It provides a focused workspace for organizing tasks, tracking progress, and reviewing short productivity notes. Task changes are stored in the browser with `localStorage`; no backend or account is required.
@@ -104,3 +105,6 @@ The dashboard uses responsive CSS layouts for mobile (including 390px), tablet (
 Build the project with `npm run build`, then deploy the generated `dist/` directory to a static hosting provider that supports Vite-built sites.
 
 **Live application:** [Add deployed application URL here]
+=======
+# FocusBoard-Task-Management-Dashboard
+A responsive task management dashboard built with React, Vite, and JavaScript. Features include task creation, editing, deletion, search, priority and status filters, dynamic statistics, Focus Notes carousel, and localStorage persistence.
